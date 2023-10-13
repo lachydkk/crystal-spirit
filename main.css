@@ -4,16 +4,13 @@ body {
   text-align: center;
   font-size: 20px;
   margin: 50px 0;
-  background: url('background.jpg')
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: linear-gradient(to right top, #FFB6C1, #CBC3E3, #ae25b3, #ca0ad1, #7f0b9c);
 
 
 }
 
 
 div {
-  background: url('fish.jpg');
   padding: 50px 0 50px;
   margin-bottom: 50px;
 }
